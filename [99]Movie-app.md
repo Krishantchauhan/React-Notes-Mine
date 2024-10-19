@@ -62,7 +62,7 @@ useEffect(() => {
 
 The component renders a sticky NavBar at the top and a grid of movie posters below. The posters are animated using Framer Motion.
 
-```javascript
+```html
 return (
   <>
     <div>
